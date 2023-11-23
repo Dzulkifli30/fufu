@@ -79,31 +79,7 @@ export default function Dashboard() {
                             </div>
                         </div>
                         {/* navbar right */}
-                        <div className="w-1/12 h-screen bg-gray-700 text-white md-max:hidden">
-                            <div className="w-full rotate-90 mb-8"><MenuIcon className="w-full p-8" /></div>
-                            <div className="flex text-xl rotate-90">
-                                <Link smooth={true} duration={400} to="home">
-                                    <div className="p-8 px-6 hover:bg-gray-600">
-                                        <button>Home</button>
-                                    </div>
-                                </Link>
-                                {/* <Link smooth={true} duration={400} to="about">
-                                    <div className="p-8 px-6 hover:bg-gray-600">
-                                        <button>About Me</button>
-                                    </div>
-                                </Link> */}
-                                <Link smooth={true} duration={400} to="portfolio">
-                                    <div className="p-8 px-6 hover:bg-gray-600">
-                                        <button>Portfolio</button>
-                                    </div>
-                                </Link>
-                                <Link smooth={true} duration={400} to="contact">
-                                    <div className="p-8 px-6 hover:bg-gray-600">
-                                        <button>Contact</button>
-                                    </div>
-                                </Link>
-                            </div>
-                        </div>
+
                     </div>
                 </section>
             </div>
