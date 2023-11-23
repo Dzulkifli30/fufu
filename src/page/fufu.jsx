@@ -87,11 +87,11 @@ export default function Dashboard() {
                                         <button>Home</button>
                                     </div>
                                 </Link>
-                                {/* <Link smooth={true} duration={400} to="about">
+                                <Link smooth={true} duration={400} to="about">
                                     <div className="p-8 px-6 hover:bg-gray-600">
-                                        <button>About Me</button>
+                                        <button>About</button>
                                     </div>
-                                </Link> */}
+                                </Link>
                                 <Link smooth={true} duration={400} to="portfolio">
                                     <div className="p-8 px-6 hover:bg-gray-600">
                                         <button>Portfolio</button>
