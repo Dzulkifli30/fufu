@@ -66,7 +66,7 @@ export default function Dashboard() {
                             <div className="py-10 md-max:py-2 w-full flex justify-between">
                                 <div className="md-max:w-8/12">
                                     <div className="text-sky-400 text-xl font-bold uppercase md-max:text-base"><p>HELLO GUYS</p></div>
-                                    <div className="text-white text-6xl font-semibold uppercase py-10 md-max:py-5 md-max:text-3xl w-11/12"><p>I’m Hilmi Nurullah</p></div>
+                                    <div className="text-white text-6xl font-semibold uppercase py-10 md-max:py-5 md-max:text-3xl w-11/12"><p>I’m Alan RICKY $K!d</p></div>
                                     <div className="text-white text-lg w-5/12 md-max:text-sm md-max:w-11/12"><p>i'm a professional <strong>Photographer, Videographer and Storyteller </strong>from Indonesia</p></div>
                                 </div>
                                 <div className="md-max:w-4/12 md:hidden">
