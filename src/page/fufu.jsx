@@ -1,6 +1,6 @@
 import React from "react";
 import BgAwal from "../assets/bgawal.png";
-import Kakek from "../assets/fufu.png";
+import Kakek from "../assets/kakek.png";
 import LogoAtas from "../assets/Logo.png";
 import Ngoding from "../assets/ngoding.png";
 import Kopi from "../assets/kopi.png";
